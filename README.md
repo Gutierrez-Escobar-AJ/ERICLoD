@@ -116,7 +116,7 @@ Use of this tool should always follow institutional, clinical, and regulatory gu
 
 If you use ERICLoD in your research or validation workflow, please cite the following guideline document that forms the basis for this tool:
 
-> Rossi D, Zenz T, Malcikova J, et al. **Revised ERIC recommendations for TP53 mutation analysis in chronic lymphocytic leukemia**. *Leukemia*. 2024. https://doi.org/10.1038/s41375-024-02135-3
+> Malcikova, J., Pavlova, S., Baliakas, P. et al. ERIC recommendations for TP53 mutation analysis in chronic lymphocytic leukemia—2024 update. Leukemia 38, 1455–1468 (2024). https://doi.org/10.1038/s41375-024-02267-x
 
 These recommendations serve as the scientific foundation and clinical rationale for the existence and design of ERICLoD.
 
