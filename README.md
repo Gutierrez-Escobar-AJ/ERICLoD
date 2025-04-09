@@ -1,5 +1,9 @@
 # ERICLoD
 
+<p align="center">
+  <img src="assets/ericlod_logo.png" alt="ERICLoD Logo" width="350"/>
+</p>
+
 **ERICLoD** is a synthetic NGS data generator for validating the **Limit of Detection (LoD)** of clinically relevant somatic variants, aligned with the **2024 ERIC recommendations** for TP53 mutation analysis in CLL. This release includes full support for **TP53**. Support for other ERIC-relevant genes is under active development.
 
 ERICLoD simulates sequencing data at user-defined VAF levels, read depths, and library prep parameters, allowing labs to benchmark their variant calling pipelines and determine their true analytical sensitivity under ERIC-aligned standards.
