@@ -1,0 +1,13 @@
+
+# Ignore common output files
+*.fq
+*.sam
+*.aln
+*.zip
+*.log
+*.pyc
+*.fa
+*.fa.fai
+*.vcf.gz
+__pycache__/
+.DS_Store

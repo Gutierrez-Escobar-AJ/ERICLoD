@@ -1,0 +1,3 @@
+chrom	pos	expected	found	region_start	error
+17	7674211	A	T	7673319	ref_mismatch
+17	7674239	A	G	7673319	ref_mismatch

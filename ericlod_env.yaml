@@ -1,0 +1,12 @@
+name: ericlod
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - pyfaidx
+  - art=2016.06.05
+  - samtools
+  - gzip
+

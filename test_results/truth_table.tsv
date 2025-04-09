@@ -1,0 +1,8 @@
+chrom	pos	ref	alt	hgvs_g	pathogenicity	consequence
+17	7676238	A	C	N	U	missense_variant
+17	7673569	T	G	N	U	missense_variant,non-coding_transcript_variant
+17	7669673	T	A	N	U	missense_variant,3_prime_UTR_variant
+17	7674239	A	G	N	C	missense_variant
+17	7674211	A	G	N	C	missense_variant
+17	7674881	AC	A	N	P	frameshift_variant
+17	7673794	CA	C	N	P	frameshift_variant
